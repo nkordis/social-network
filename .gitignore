@@ -1,0 +1,6 @@
+/target/
+/Procfile
+/.springBeans
+/.project
+/.classpath
+/.settings/
